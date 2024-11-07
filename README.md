@@ -34,3 +34,8 @@ Follow these instructions to set up the project locally.
    git clone https://github.com/ritika18b/MosamApp.git
    cd weather-app
 
+   Steps to Use:
+   1.Open your terminal.
+   2.Copy and paste the above command.
+   3.Press Enter.
+
